@@ -1,10 +1,8 @@
 ## Oii! Eu sou a Thaís 😊
 
-🎓Sou uma administradora que está se aventurando na área de dados.
+🎓 Sou uma administradora que está se aventurando na área de dados.
 
-📘 Em 2021, finalizei uma pós em Ciência de Dados e Machine Learning. Hoje, estou estudando xxx na Alura.
-
-💻 Criei esse perfil para compartilhar meus projetos e registrar minha evolução.
+📘 Estudando xxx na Alura.
 
 <div>
   <a href="https://github.com/thaisflopes">
