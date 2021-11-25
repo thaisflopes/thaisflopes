@@ -2,7 +2,7 @@
 
 🎓 Sou uma administradora que está se aventurando na área de dados.
 
-📘 Estudando xxx na Alura.
+📘 Estudando Data Science na Alura.
 
 💻 Perfil dedicado a compartilhar meus projetos e registrar minha evolução.
 
