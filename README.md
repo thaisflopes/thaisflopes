@@ -4,7 +4,7 @@
 
 📘 Estudando Data Science na Alura.
 
-💻 Perfil dedicado a compartilhar meus projetos e registrar minha evolução.
+💻 Perfil dedicado a compartilhar meus projetos e registrar minha trajetória.
 
 <div align="center">
   <a href="https://github.com/thaisflopes">
