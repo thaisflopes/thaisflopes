@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Thaís 😊
 
--🎓Sou uma administradora que se avrando na área de dados, tendo uma pós-graduação em Ciência de Dados e Machine Learning.
+-🎓Sou uma administradora que está se aventurando na área de dados, tendo uma pós-graduação em Ciência de Dados e Machine Learning.
 -💡
 
 <div>
