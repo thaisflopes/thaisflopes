@@ -1,4 +1,4 @@
-## Oii, sou a Thaís e seja bem vindo(a) ao meu perfil 😊
+## Oii! Eu sou a Thaís 😊
 
 🎓 Sou uma administradora que está se aventurando na área de dados.
 
