@@ -2,7 +2,7 @@
 
 🎓 Sou uma administradora que está se aventurando na área de dados.
 
-📘 Estudando Data Science na Alura.
+📘 Estudando Ciência de Dados na Comunidade DS.
 
 💻 Perfil dedicado a compartilhar meus projetos e registrar minha trajetória.
 
