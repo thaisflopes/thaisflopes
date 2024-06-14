@@ -1,10 +1,4 @@
 ## Oii! Eu sou a Thaís 😊
-
-🎓 Sou uma administradora que está se aventurando na área de dados.
-
-📘 Estudando Ciência de Dados na Comunidade DS.
-
-💻 Perfil dedicado a compartilhar meus projetos e registrar minha trajetória.
   
   ##
  
